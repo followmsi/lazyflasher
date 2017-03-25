@@ -63,7 +63,7 @@ umount() {
 print "#######################################"
 print "#           kernel flasher            #"
 print "#      by jcadduono, version 5.1      #"
-print "#           Pixel C kernel            #"
+print "#           flo / deb kernel          #"
 print "#######################################"
 
 # Unpack the installer
